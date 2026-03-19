@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Nitish Sen!
 
-### 🧠 Tech Explorer & Full Stack Developer in Progress
+### 🧠 Tech Explorer & Full Stack Developer 
 
 *Still learning. Always building.*
 
