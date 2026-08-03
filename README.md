@@ -16,13 +16,12 @@
 
 ## 🚀 About Me
 
-- 🎓 Studying at **Pentium Point Technical College, Rewa**
+- 🎓 Persuing **BCA**; 
 - 📍 Based in **Rewa, India**
 - 💻 Building my foundation in **Full Stack Web Development**
 - 🤖 Leveraging **AI tools** to code smarter and learn faster
-- 🌱 Currently leveling up in **JavaScript & PHP**
+- 🌱 Currently leveling up in **JavaScript & REACT**
 - 💞️ Open to **internships, collabs & beginner-friendly opportunities**
-- ⚡ Fun fact: *Great code has been written on worse setups than mine 😄*
 
 ---
 
