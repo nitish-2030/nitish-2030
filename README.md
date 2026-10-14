@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Persuing **BCA**; 
+- 🎓 Pursuing **BCA**; 
 - 📍 Based in **Rewa, India**
 - 💻 Building my foundation in **Full Stack Web Development**
 - 🤖 Leveraging **AI tools** to code smarter and learn faster
